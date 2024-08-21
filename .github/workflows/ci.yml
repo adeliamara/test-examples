@@ -7,6 +7,7 @@ on:
   pull_request:
     branches:
       - main
+      - feat/add-workflow
 
 jobs:
   build-and-test:
