@@ -1,7 +1,7 @@
 
-function getSortedEvenNumbers(numbers){
-    return numbers
-}
+// function getSortedEvenNumbers(numbers){
+//     return numbers
+// }
 // function getSortedEvenNumbers(numbers) {
 //     let evenNumbers = [];
 
@@ -27,12 +27,12 @@ function getSortedEvenNumbers(numbers){
 // }
 
 
-/*
+
 // Código refatorado 1
 function getSortedEvenNumbers(numbers){
     return numbers.sort((a, b) => a - b);
 }
-*/
+
 
 /*
 // Código refatorado 2
