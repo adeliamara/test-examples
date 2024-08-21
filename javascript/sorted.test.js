@@ -5,3 +5,4 @@ it('should return sorted even numbers from an array', () => {
     const output = getSortedEvenNumbers(input);
     expect(output).toEqual([2, 6, 8]);
 });
+    
